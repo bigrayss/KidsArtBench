@@ -3,3 +3,5 @@ ArtEduDataset/*
 !ArtEduDataset/grade.xlsx
 !ArtEduDataset/train.csv
 !ArtEduDataset/test.csv
+!ArtEduDataset/README.md
+
