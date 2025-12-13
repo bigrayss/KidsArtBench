@@ -1,1 +1,5 @@
-ArtEduDataset/
+ArtEduDataset/*
+
+!ArtEduDataset/grade.xlsx
+!ArtEduDataset/train.csv
+!ArtEduDataset/test.csv
