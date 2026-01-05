@@ -17,4 +17,13 @@ Below we show the primary training and inference commands used in our main exper
 > python experiment/evaluation/qwen25_vl_7b_multi_lora_rail_infer.py
 
 ## Reference
-If you find KidsArtBench or the provided baseline model useful, please cite our paper
+
+If you find **KidsArtBench** or the released baseline model useful for your research, please consider citing the following paper:
+
+```bibtex
+@article{ye2025kidsartbench,
+  title={KidsArtBench: Multi-Dimensional Children's Art Evaluation with Attribute-Aware MLLMs},
+  author={Ye, Mingrui and Zheng, Chanjin and Yu, Zengyi and Xiang, Chenyu and Zhao, Zhixue and Yuan, Zheng and Yannakoudakis, Helen},
+  journal={arXiv preprint arXiv:2512.12503},
+  year={2025}
+}
