@@ -6,7 +6,7 @@ Multimodal Large Language Models (MLLMs) show remarkable progress across many vi
 ## Dataset
 The annotation files of KidsArtBench are provided in the `ArtEduDataset/` directory of this repository. The corresponding artwork images were collected from children and are therefore required a signed Data Usage Agreement. Please complete and sign the agreement and send the signed copy to 51284118014@stu.ecnu.edu.cn or mingrui.ye@kcl.ac.uk, after which we will promptly provide access to the image data.
 
-<img src="ArtEduDataset/fig1.png" width="600">
+<img src="ArtEduDataset/demo.png" width="600">
 
 ## Experiments
 ### Baseline Model

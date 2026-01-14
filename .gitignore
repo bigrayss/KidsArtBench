@@ -4,4 +4,5 @@ ArtEduDataset/*
 !ArtEduDataset/train.csv
 !ArtEduDataset/test.csv
 !ArtEduDataset/README.md
+!ArtEduDataset/demo.png
 
